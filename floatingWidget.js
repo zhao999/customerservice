@@ -1,5 +1,5 @@
 class FloatingWidget {
-    constructor(imgSrc, onClick){
+    constructor(imgSrc='https://cdn.jsdelivr.net/gh/zhao999/customerservice@master/images/kf.png', onClick){
         this.imgSrc = imgSrc;
         this.onClick = onClick;
     }
